@@ -22,4 +22,4 @@ gatsby develop
 
 ## View Deployed Site
 
-(https://rff-app-site-prodriguez-dev.netlify.app/)
+https://rff-app-site-prodriguez-dev.netlify.app/
