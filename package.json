@@ -20,6 +20,8 @@
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-helmet": "^6.1.0",
+    "react-stripe-checkout": "^2.6.3",
+    "stripe": "^8.134.0",
     "styled-components": "^3.3.3"
   },
   "devDependencies": {
